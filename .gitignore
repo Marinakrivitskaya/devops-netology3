@@ -33,3 +33,5 @@ override.tf.json
 terraform.rc
 # InteliJ files
 .idea
+.DS_Store
+
